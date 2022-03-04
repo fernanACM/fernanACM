@@ -2,7 +2,7 @@
 
 | **Plugins** | **State** | **API** | **Download Total** |
 | --- | --- | --- | --- |
-|**[JoinACM](https://poggit.pmmp.io/p/JoinACM/0.6)** | [![](https://poggit.pmmp.io/shield.state/JoinACM)](https://poggit.pmmp.io/p/JoinACM) | 4.0.0 | [![](https://poggit.pmmp.io/shield.dl.total/JoinACM)](https://poggit.pmmp.io/p/JoinACM) |
+|**[JoinACM](https://poggit.pmmp.io/p/JoinACM/0.6)** | [![](https://poggit.pmmp.io/shield.state/JoinACM)](https://poggit.pmmp.io/p/JoinACM) | [![](https://poggit.pmmp.io/shield.api/JoinACM)](https://poggit.pmmp.io/p/JoinACM) | [![](https://poggit.pmmp.io/shield.dl.total/JoinACM)](https://poggit.pmmp.io/p/JoinACM) |
 
 <!--
 **fernanACM/fernanACM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=fernanACM&color=green)
+---
+![fernanACM github stats](https://github-readme-stats.vercel.app/api/?username=fernanACM&show_icons=true&hide_border=true&theme=algolia&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanACM&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/fernanACM)
+<!--

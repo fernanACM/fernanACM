@@ -4,6 +4,7 @@
 | --- | --- | --- | --- |
 |**[JoinACM](https://poggit.pmmp.io/p/JoinACM/0.6)** | [![](https://poggit.pmmp.io/shield.state/JoinACM)](https://poggit.pmmp.io/p/JoinACM) | [![](https://poggit.pmmp.io/shield.api/JoinACM)](https://poggit.pmmp.io/p/JoinACM) | [![](https://poggit.pmmp.io/shield.dl.total/JoinACM)](https://poggit.pmmp.io/p/JoinACM) |
 | **[SizeUI](https://poggit.pmmp.io/p/SizeUI/1.0)** | [![](https://poggit.pmmp.io/shield.state/SizeUI)](https://poggit.pmmp.io/p/SizeUI) | [![](https://poggit.pmmp.io/shield.api/SizeUI)](https://poggit.pmmp.io/p/SizeUI) | [![](https://poggit.pmmp.io/shield.dl.total/SizeUI)](https://poggit.pmmp.io/p/SizeUI) |
+| **[RGB](https://poggit.pmmp.io/p/RGB/1.0)** | [![](https://poggit.pmmp.io/shield.state/RGB)](https://poggit.pmmp.io/p/RGB) | [![](https://poggit.pmmp.io/shield.api/RGB)](https://poggit.pmmp.io/p/RGB) | [![](https://poggit.pmmp.io/shield.dl.total/RGB)](https://poggit.pmmp.io/p/RGB) |
 
 <!--
 **fernanACM/fernanACM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

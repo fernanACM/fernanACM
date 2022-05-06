@@ -1,6 +1,5 @@
 # fernanACM
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pandaancha.mx%2Fnoticias%2Fque-es-lenguaje-de-programacion.html&psig=AOvVaw1KKPRgQJ7XDYFgRD31AEic&ust=1651920784739000&source=images&cd=vfe&ved=2ahUKEwjL1evN2sr3AhVYErkGHd3FDjsQjRx6BAgAEAs
+![code 03-500x281-38415426](https://user-images.githubusercontent.com/83558341/167118599-3162cab4-cddf-4e65-b69c-0429807222fa.gif)
 
 Hello, join me in my learning of this programming language. Look at my works and enjoy them.
 

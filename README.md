@@ -1,5 +1,7 @@
 # fernanACM
 
+Hello, join me in my learning of this programming language. Look at my works and enjoy them.
+
 <h3 align="left">Language:</h3>
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 

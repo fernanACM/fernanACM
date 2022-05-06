@@ -6,9 +6,7 @@ Hello, join me in my learning of this programming language. Look at my works and
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Profile dev:</h3>
-<a href="https://poggit.pmmp.io/ci/fernanACM" target="_blank"> <img src="https://i.imgur.com/nFda8VA.png" alt="php" width="40" height="40"/> </a> </p>
-<a href="https://www.youtube.com/channel/UC-M5iTrCItYQBg5GMuX5ySw" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt="php" width="40" height="40"/> </a> </p>
-<a href="https://github.com/fernanACM" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="php" width="40" height="40"/> </a> </p>
+<a href="https://poggit.pmmp.io/ci/fernanACM" target="_blank"> <img src="https://i.imgur.com/nFda8VA.png" alt="php" width="40" height="40"/> </a> </p> <a href="https://www.youtube.com/channel/UC-M5iTrCItYQBg5GMuX5ySw" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt="php" width="40" height="40"/> </a> </p> <a href="https://github.com/fernanACM" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="php" width="40" height="40"/> </a> </p>
 
 ### Poggit plugins:
 

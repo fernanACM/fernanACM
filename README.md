@@ -1,6 +1,4 @@
 # fernanACM
-![code 03-500x281-38415426](https://user-images.githubusercontent.com/83558341/167118599-3162cab4-cddf-4e65-b69c-0429807222fa.gif)
-
 Hello, join me in my learning of this programming language. Look at my works and enjoy them.
 
 <h3 align="left">Language:</h3>

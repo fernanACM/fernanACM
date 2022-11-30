@@ -1,8 +1,8 @@
 # fernanACM
 Hello, join me in my learning of this programming language. Look at my works and enjoy them.
 
-<h3 align="left">Language:</h3>
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <a href="https://www.javascript.com" target="-blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages:</h3>
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <a href="https://www.javascript.com" target="-blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> <a href="https://html.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="40" height="40"/> </a> </p>
 
 ### Poggit plugins:
 
